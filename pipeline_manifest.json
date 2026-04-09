@@ -1,0 +1,4 @@
+git add pipeline_manifest.json
+git commit -m "Add SIFP-01 manifest"
+git push origin main
+
